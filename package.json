@@ -85,7 +85,6 @@
     "find-up": "^5.0.0",
     "glob-parent": "^6.0.2",
     "globals": "^13.19.0",
-    "graphemer": "^1.4.0",
     "ignore": "^5.2.0",
     "imurmurhash": "^0.1.4",
     "is-glob": "^4.0.0",
